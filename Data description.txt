@@ -1,0 +1,11 @@
+By using this dataset, customers see the radial difference between their lifestyle choices make on thier insurance charges.
+Why to solve this problem.
+1. what is bmi?
+2. relationship between bmi and expensives
+3. is there relationship between gender and claim amount?
+4. relationship between claim amount and age?
+5. is the smoker group well represented?
+6. visualize how many children the customer have
+7. age vs charges
+8. why all the columns are important
+9. 
